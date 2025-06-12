@@ -1,0 +1,11 @@
+{
+  "name": "timeout-errors-on-ubuntu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^24.0.0"
+  },
+  "scripts": {}
+}
